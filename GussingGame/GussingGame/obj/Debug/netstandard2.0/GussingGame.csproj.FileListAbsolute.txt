@@ -1,0 +1,13 @@
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\obj\Debug\netstandard2.0\GussingGame.AssemblyInfoInputs.cache
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\obj\Debug\netstandard2.0\GussingGame.AssemblyInfo.cs
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\bin\Debug\netstandard2.0\GussingGame.deps.json
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\bin\Debug\netstandard2.0\GussingGame.dll
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\bin\Debug\netstandard2.0\ref\GussingGame.dll
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\bin\Debug\netstandard2.0\GussingGame.pdb
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\obj\Debug\netstandard2.0\GussingGame.dll
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\obj\Debug\netstandard2.0\ref\GussingGame.dll
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\obj\Debug\netstandard2.0\GussingGame.pdb
+C:\Users\samson\source\repos\GussingGame\GussingGame\GussingGame\obj\Debug\netstandard2.0\GussingGame.csprojAssemblyReference.cache

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GussingGame.MainPage"
+             BackgroundColor="Red">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <StackLayout  Margin="10,10,0,0">
+            <Label Text="WELCOME TO MY GUESSING GAME" FontSize="20" FontAttributes="Bold"/>
+            <Label Text="guess btwn 1 to 1000 in less than 5minute" FontSize="20" FontAttributes="Bold"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="100,10,0,0">
+            <Label Text="0"  FontSize="50" FontAttributes="Bold" x:Name="hours"/>
+            <Label Text=":" FontSize="50" FontAttributes="Bold"/>
+            <Label  Text="0"  FontSize="50" FontAttributes="Bold" x:Name="minutes"/>
+            <Label Text=":" FontSize="50" FontAttributes="Bold"/>
+            <Label  Text="0"  FontSize="50" FontAttributes="Bold" x:Name="secons"/>
+        </StackLayout>
+        <Entry  Placeholder="Input Number"  Keyboard="Numeric" x:Name="entry"/>
+
+        <Button Text="Start"  Clicked="Start_Clicked" BackgroundColor="#e9b828"  CornerRadius="20"   Margin="10,10,10,10" x:Name="btn1"/>
+        <Button Text="Check"  Clicked="Check_Clicked_1" BackgroundColor="#e9b828"  CornerRadius="20"    Margin="10,10,10,10"/>
+
+        <Label x:Name="display"  FontSize="50" FontAttributes="Bold"/>
+        <!--Command="{Binding button}"/>-->
+    </StackLayout>
+
+</ContentPage>
